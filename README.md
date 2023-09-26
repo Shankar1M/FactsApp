@@ -1,2 +1,2 @@
 # FactsApp
-Basic Facts App with ScrollView Function
+Basic Facts App with ScrollView Functionality
